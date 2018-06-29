@@ -1,4 +1,4 @@
-# Van order matching
+# Van Order Matching
 
 There are two sample tables in this small test, one table called "vanorder" and one table called "vaninterest".
 
