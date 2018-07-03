@@ -26,6 +26,7 @@ Logic of the sample system: A record is created in van-order when user places an
 - servicer_auth: The driver ID for this subset
 - txCreate: The record creation time, which is the time that this driver accepted the order
 
+
 We are using MySQL for the tables. If you have a MySQL database available, you can run the SQL file, p1_data.sql, to create two tables in the database. The two files, vaninterest.csv and vanorder.csv, contain the same data.
 
 Now we are write a few SQL statement to understand more about our data, users, and drivers. Unless specified otherwise, use all data available in the sample tables. Please use one SQL statement for finding each of the following:
