@@ -31,14 +31,14 @@ We are using MySQL for the tables. If you have a MySQL database available, you c
 
 Now we are write a few SQL statement to understand more about our data, users, and drivers. Unless specified otherwise, use all data available in the sample tables. Please use one SQL statement for finding each of the following:
 
-a) For hours with orders, how many orders are there each hour based on order time?
+- a) For hours with orders, how many orders are there each hour based on order time?
 
-b) What is the percentage of money spent for each of the following group of clients?
+- b) What is the percentage of money spent for each of the following group of clients?
 	- Clients who completed 1 order
 	- Clients who completed more than 1 order
 	
-c) List of unique Client ID who completed at least one order, also show each client's total money spent, and the total order(s) completed. Order the list by total money spent (descending), then by total order(s) completed (descending)
+- c) List of unique Client ID who completed at least one order, also show each client's total money spent, and the total order(s) completed. Order the list by total money spent (descending), then by total order(s) completed (descending)
 
-d) List of all drivers who took order(s) (regardless of whether they eventually complete the order), also show each driver's total income and total order(s) completed. Order the list by total income (descending), then by total order(s) completed
+- d) List of all drivers who took order(s) (regardless of whether they eventually complete the order), also show each driver's total income and total order(s) completed. Order the list by total income (descending), then by total order(s) completed
 
-e) List of driver ID who took orders, but never complete an order?
+- e) List of driver ID who took orders, but never complete an order?
